@@ -85,6 +85,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+
 /*benefit lead styles*/
 .benefit-lead {
     margin-bottom: 32px;
@@ -101,9 +103,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-/*all three benefits styled the same why not class benefits?*/
-/*I tried but that didn't seem to work*/
 
 /*benefit brand styles*/
 
@@ -157,10 +156,7 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+ 
 
 /*online reputation styles*/
 
@@ -177,10 +173,7 @@ p {
     max-height: 200px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+ 
 
 /*Social media marketing styles*/
 
@@ -197,7 +190,10 @@ p {
     max-height: 200px;
 }
 
-.social-media-marketing h2 {
+ 
+/*combined the three h2 elements into one declaration*/
+
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
