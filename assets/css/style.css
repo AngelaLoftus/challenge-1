@@ -41,6 +41,16 @@ body {
     margin-left: 25px;
 }
 
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -52,15 +62,7 @@ p {
 
 /*consolidated h2 and the h3 elements into one declaration*/
 
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
 
 .hero {
     height: 800px;
