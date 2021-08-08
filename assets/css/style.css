@@ -50,6 +50,18 @@ p {
     font-size: 16px;
 }
 
+/*consolidated h2 and the h3 elements into one declaration*/
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
 .hero {
     height: 800px;
     width: 100%;
@@ -84,16 +96,6 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
-
-/*combined three separate h3 declarations into one & set color for all benefits class*/
-
-h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefits {
     color: #ffffff;
 }
 
@@ -183,12 +185,7 @@ h3 {
 }
 
 
-/*combined the three h2 elements into one declaration*/
 
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 /*footer styles*/
 
