@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor Assignment
 
 ## Refactored by Angela Loftus for Boot Camp Challenge 1
 
